@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Color Generator (HexUI Generator)** is a web-based tool that allows users to generate and manipulate colors with ease. It provides multiple ways to select and adjust colors using **HSL, RGB, HEX**, a **color wheel**, and an **eyedropper tool**. It also generates a **full color scale** with different shades for UI design.
+The **Color Generator (HexUI Generator)** is a free web-based tool that allows users to generate and manipulate colors with ease. It provides multiple ways to select and adjust colors using **HSL, RGB, HEX**, a **color wheel**, and an **eyedropper tool**. It also generates a **full color scale** with different shades for UI design.
 
 ## ✨ Features
 
